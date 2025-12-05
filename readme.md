@@ -1,141 +1,174 @@
-<h1 align="center">👋 Hi, I'm Navathej — DevOps & Cloud Engineer</h1>
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:00C9FF,100:92FE9D&text=Hi,+I'm+Navathej%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
+<!-- Typing Effect -->
 <p align="center">
-  <b>Automation | Cloud | CI/CD | Containers | IaC | SRE</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DevOps-Engineer-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS-Expert-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-Kubernetes-blue?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=700&color=00C2FF&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Cloud+%7C+Automation+%7C+Infrastructure;AWS+%7C+Azure+%7C+GCP;Docker+%7C+Kubernetes+%7C+Terraform;Building+Real+World+Projects" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me  
-
-- DevOps Engineer passionate about automation, cloud, and scalable infrastructure.  
-- Hands-on with AWS, Azure, GCP, Docker, Kubernetes, Terraform, Ansible, Jenkins & GitHub Actions.  
-- Always learning by building real-world projects.  
+# 🧭 **Navigation**
+<p align="center">
+  <a href="#-about-me">About</a> •
+  <a href="#-notes--documentation">Notes</a> •
+  <a href="#-practice-workspaces">Practice</a> •
+  <a href="#-premium-projects-showcase">Projects</a> •
+  <a href="#-tech-stack">Skills</a> •
+  <a href="#-github-stats">Stats</a> 
+</p>
 
 ---
 
-# 📚 **Notes & Documentation**
+# 🌟 About Me  
+I am a **DevOps & Cloud Engineer** focused on automation, scalable deployments, cloud architectures, and CI/CD excellence.  
+My workflow revolves around:
 
-### 🧰 **DevOps & Cloud Notes**
-| Topic | Repo Link |
-|-------|-----------|
+- 🚀 **Automation** (CI/CD, Pipelines, GitHub Actions, Jenkins)  
+- ☁️ **Cloud & Infra** (AWS, Azure, GCP)  
+- 📦 **Containers & Orchestration** (Docker, Kubernetes)  
+- 🧩 **IaC** (Terraform, Ansible, Vagrant)  
+- 🛠 **Real-World Projects & Learning**  
+
+---
+
+# 📚 Notes & Documentation  
+
+## 🔹 **DevOps & Cloud Notes**
+| Topic | Link |
+|-------|------|
 | 📘 DevOps Notes | https://github.com/thej950/devops-notes |
-| ☁️ AWS Notes | https://github.com/thej950/cloud-notes |
-| ☁️ Azure Notes | https://github.com/thej950/azure-notes |
-| 🛠️ Oracle DB Notes | https://github.com/thej950/oracledb-notes |
-| ☁️ Terraform Notes | https://github.com/thej950/Terraform-work |
-| 📦 Vagrant Workspace | https://github.com/thej950/Vagrant |
+| ⚡ AWS Notes | https://github.com/thej950/cloud-notes |
+| 🔷 Azure Notes | https://github.com/thej950/azure-notes |
+| 🛠 Oracle DB Notes | https://github.com/thej950/oracledb-notes |
+| 🟣 Terraform Notes | https://github.com/thej950/Terraform-work |
+| 🧰 Vagrant Workspace | https://github.com/thej950/Vagrant |
 
 ---
 
-# 🧪 **Practice Workspaces**
+# 🔧 Practice Workspaces  
 
-| Workspace | Repo Link |
-|-----------|-----------|
-| ⚙️ Ansible Practice | https://github.com/thej950/ansible_practice |
+| Workspace | Link |
+|-----------|------|
+| ⚙️ Ansible Practice Notes | https://github.com/thej950/ansible_practice |
 | 🧩 Ansible Playbooks Collection | https://github.com/thej950/playbooks01 |
 | 🌐 HTML Website Practice | https://github.com/thej950/lawfirm |
 
 ---
 
-# 💼 **Projects (Well Organized)**
+# 🚀 PREMIUM PROJECTS SHOWCASE  
 
-## 🔰 **1. CI/CD, Automation & DevOps Projects**
+## 🔥 **1. CI/CD & Automation Projects**
 
-### ✔️ **Docker + GitHub Actions CI/CD**
-**Repo:**  
-🔗 https://github.com/thej950/better  
-**Highlights:**  
-- GitHub Workflow  
-- Automated build & Docker image creation  
-- Deployment pipeline  
+<details>
+<summary><b>🔄 GitHub Actions CI/CD Pipeline (Docker Build + Deploy)</b></summary>
 
-### ✔️ **Build & Push Docker Image to AWS ECR → Deploy**
-**Repo:**  
-🔗 https://github.com/thej950/cicd-project  
-**Highlights:**  
-- AWS ECR  
-- Container Deployment  
-- Automated build & push  
+📁 Repo: https://github.com/thej950/better  
+✨ Highlights:
+- GitHub Actions Workflows  
+- Automated Docker image build  
+- Push to registry  
+- Deployment automation  
+</details>
+
+<details>
+<summary><b>🐳 CICD to AWS ECR → Docker Deployment</b></summary>
+
+📁 Repo: https://github.com/thej950/cicd-project  
+✨ Highlights:
+- Build → Tag → Push to ECR  
+- Docker deployment automation  
+</details>
 
 ---
 
-## 🐳 **2. Containerization & Reverse Proxy Projects**
+## 🌐 **2. Multi-Service, Reverse Proxy & Container Projects**
 
-### ✔️ **Multi-Service Reverse Proxy Setup (NGINX + Docker)**
-**Repo:**  
-🔗 https://github.com/thej950/DPDzero-project  
-**Highlights:**  
-- Docker Compose  
-- Reverse Proxy  
-- Microservices Setup  
+<details>
+<summary><b>🟩 NGINX Reverse Proxy + Multi-Service Docker Project</b></summary>
+
+📁 Repo: https://github.com/thej950/DPDzero-project  
+✨ Highlights:
+- Multi-container architecture  
+- Reverse proxy using NGINX  
+- Inter-container communication  
+</details>
 
 ---
 
 ## ☁️ **3. Cloud + DevOps Full Stack Projects**
 
-### ✔️ **NodeJS + GCP + GCR + Docker + Jenkins + Ansible**
-**Repo:**  
-🔗 https://github.com/thej950/Software_Lab_Project  
-**Highlights:**  
-- CI/CD on Jenkins  
-- Ansible automation  
-- GCP Container Registry (GCR)  
-- NodeJS application deployment  
+<details>
+<summary><b>🟦 NodeJS + GCP + GCR + Docker + Jenkins + Ansible</b></summary>
+
+📁 Repo: https://github.com/thej950/Software_Lab_Project  
+✨ Highlights:
+- Jenkins CI/CD  
+- Ansible deployments  
+- GCP Container Registry  
+- NodeJS backend  
+</details>
 
 ---
 
-## 🏗️ **4. Three-Tier Architecture Projects**
+## 🏗️ **4. Three Tier & Backend Projects**
 
-### ✔️ **Ubuntu Backend Setup (Node.js + MySQL Client)**
-**Repo:**  
-🔗 https://github.com/thej950/Three-tier-project  
-**Highlights:**  
-- Backend configuration  
-- MySQL client setup  
-- Linux OS automation  
+<details>
+<summary><b>🟧 Three-Tier App (Node.js + MySQL + Ubuntu)</b></summary>
+
+📁 Repo: https://github.com/thej950/Three-tier-project  
+✨ Highlights:
+- Backend automation  
+- DB client setup  
+- Linux environment configuration  
+</details>
 
 ---
 
-## 🌐 **5. Web Application Projects**
+## 🔐 **5. Web App Projects**
 
-### ✔️ **Login & Signup Functionality (PHP + MySQL)**
-**Repo:**  
-🔗 https://github.com/thej950/signup-login-php  
-**Highlights:**  
-- Simple PHP auth system  
-- MySQL backend  
+<details>
+<summary><b>🟦 PHP Login & Signup (MySQL Backend)</b></summary>
+
+📁 Repo: https://github.com/thej950/signup-login-php  
+✨ Highlights:
+- Simple authentication system  
+- PHP + MySQL  
+</details>
 
 ---
 
 ## ☁️ **6. Kubernetes & Terraform**
 
-### ✔️ **EKS Setup with Terraform**
-**Repo:**  
-🔗 https://github.com/thej950/EKS-Terraform  
-**Highlights:**  
+<details>
+<summary><b>🟣 EKS Setup using Terraform (AWS)</b></summary>
+
+📁 Repo: https://github.com/thej950/EKS-Terraform  
+✨ Highlights:
 - AWS EKS cluster provisioning  
-- Infrastructure as Code  
+- Full IaC approach  
+</details>
 
 ---
 
-# 📊 **GitHub Stats**
+# 🛠 Tech Stack  
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thej950&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thej950&layout=compact&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,github,git,linux,nodejs,nginx,mysql,html,css,vscode&theme=light" />
 </p>
 
 ---
 
-# ✨ **Connect With Me**
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thej950&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thej950&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🔗 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"></a>
@@ -143,3 +176,6 @@
 </p>
 
 ---
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:92FE9D,100:00C9FF&section=footer" />
