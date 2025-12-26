@@ -14,7 +14,7 @@
   <a href="#-notes--documentation">Notes</a> •
   <a href="#-practice-workspaces">Practice</a> •
   <a href="#-premium-projects-showcase">Projects</a> •
-  <a href="#-tech-stack">Skills</a> •
+  <a href="#-tech-stack">Skills</a>
 </p>
 
 ---
