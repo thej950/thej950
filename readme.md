@@ -53,12 +53,13 @@ My workflow revolves around:
 | ⚙️ Ansible Practice Notes | https://github.com/thej950/ansible_practice |
 | 🧩 Ansible Playbooks Collection | https://github.com/thej950/playbooks01 |
 | 🌐 HTML Website Practice | https://github.com/thej950/lawfirm |
+| 🚀 GitHub Actions Practice & Notes | https://github.com/thej950/CI-CD-Github-Actions.git |
 
 ---
 
 # 🚀 PREMIUM PROJECTS SHOWCASE  
 
-## 🔥 **1. CI/CD & Automation Projects**
+### 🔥 **1. CI/CD & Automation Projects**
 
 <details>
 <summary><b>🔄 GitHub Actions CI/CD Pipeline (Docker Build + Deploy)</b></summary>
@@ -82,7 +83,7 @@ My workflow revolves around:
 
 ---
 
-## 🌐 **2. Multi-Service, Reverse Proxy & Container Projects**
+### 🌐 **2. Multi-Service, Reverse Proxy & Container Projects**
 
 <details>
 <summary><b>🟩 NGINX Reverse Proxy + Multi-Service Docker Project</b></summary>
@@ -96,7 +97,7 @@ My workflow revolves around:
 
 ---
 
-## ☁️ **3. Cloud + DevOps Full Stack Projects**
+### ☁️ **3. Cloud + DevOps Full Stack Projects**
 
 <details>
 <summary><b>🟦 NodeJS + GCP + GCR + Docker + Jenkins + Ansible</b></summary>
@@ -111,7 +112,7 @@ My workflow revolves around:
 
 ---
 
-## 🏗️ **4. Three Tier & Backend Projects**
+### 🏗️ **4. Three Tier & Backend Projects**
 
 <details>
 <summary><b>🟧 Three-Tier App (Node.js + MySQL + Ubuntu)</b></summary>
@@ -125,7 +126,7 @@ My workflow revolves around:
 
 ---
 
-## 🔐 **5. Web App Projects**
+### 🔐 **5. Web App Projects**
 
 <details>
 <summary><b>🟦 PHP Login & Signup (MySQL Backend)</b></summary>
@@ -137,8 +138,25 @@ My workflow revolves around:
 </details>
 
 ---
+### **6. GitHub Actions CI/CD — Node.js + MySQL on Azure AKS**
 
-## ☁️ **6. Kubernetes & Terraform**
+<details>
+<summary><b>🔄 End-to-end CI/CD pipeline using GitHub Actions</b></summary>
+
+* Built CI/CD pipeline using **GitHub Actions**
+* Dockerized **Node.js application**
+* Integrated **MySQL database**
+* Pushed images to container registry
+* Deployed application to **Azure AKS**
+* Automated build, test, and deploy workflow
+
+🔗 Repo: [https://github.com/thej950/GitHub-Actions-project.git](https://github.com/thej950/GitHub-Actions-project.git)
+
+</details>
+
+---
+
+### ☁️ **7. Kubernetes & Terraform**
 
 <details>
 <summary><b>🟣 EKS Setup using Terraform (AWS)</b></summary>
@@ -150,6 +168,26 @@ My workflow revolves around:
 </details>
 
 ---
+
+### 🔹 **8. Azure VM Infrastructure (Terraform)**
+
+<details>
+<summary><b>🟣 Single VM setup inside Azure VNet </b></summary>
+
+
+* Created **Azure Virtual Network**: `10.0.0.0/16`
+* Configured **Subnet**: `10.0.2.0/24`
+* Deployed **single Azure VM** inside the subnet
+* Opened required ports using **NSG**:
+
+  * `22` – SSH
+  * `80` – HTTP
+  * `443` – HTTPS
+* Infrastructure fully automated using **Terraform**
+
+🔗 Repo: [https://github.com/thej950/terraform-fractal.git](https://github.com/thej950/terraform-fractal.git)
+
+</details>
 
 # 🛠 Tech Stack  
 
