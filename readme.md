@@ -196,7 +196,7 @@ My workflow revolves around:
 
 ---
 
-# 🔗 Connect With Me  
+<!-- # 🔗 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/navathej-a/">
@@ -205,7 +205,7 @@ My workflow revolves around:
   <a href="mailto:thej.devops01@gmail.com@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
   </a>
-</p>
+</p> -->
 
 
 ---
