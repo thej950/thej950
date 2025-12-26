@@ -159,16 +159,6 @@ My workflow revolves around:
 
 ---
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=thej950&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=thej950&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thej950&theme=dark&hide_border=false&layout=compact)
-
-
----
-
 # 🔗 Connect With Me  
 
 <p align="center">
