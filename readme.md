@@ -160,20 +160,26 @@ My workflow revolves around:
 ---
 
 # 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=thej950&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thej950&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thej950&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![](https://nirzak-streak-stats.vercel.app/?user=thej950&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thej950&theme=dark&hide_border=false&layout=compact)
+
 
 ---
 
 # 🔗 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"></a>
-  <a href="mailto:navathej@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/navathej-a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge">
+  </a>
+  <a href="mailto:thej.devops01@gmail.com@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
+  </a>
 </p>
+
 
 ---
 
