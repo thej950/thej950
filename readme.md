@@ -15,7 +15,6 @@
   <a href="#-practice-workspaces">Practice</a> •
   <a href="#-premium-projects-showcase">Projects</a> •
   <a href="#-tech-stack">Skills</a> •
-  <a href="#-github-stats">Stats</a> 
 </p>
 
 ---
