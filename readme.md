@@ -196,12 +196,13 @@ My workflow revolves around:
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=thej950&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=thej950&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thej950&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-# GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=thej950&theme=tokyonight&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=thej950&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thej950&theme=tokyonight&layout=compact)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/annamthej) 
 
 
 ---
