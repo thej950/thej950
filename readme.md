@@ -196,11 +196,6 @@ My workflow revolves around:
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thej950&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=thej950&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thej950&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/annamthej) 
 
@@ -225,4 +220,5 @@ My workflow revolves around:
 
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:92FE9D,100:00C9FF&section=footer" />
+
 
